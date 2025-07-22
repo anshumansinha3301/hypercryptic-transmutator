@@ -1,3 +1,4 @@
+import tensorops, utils, entropyspace
 import math, sequtils, random, strutils
 
 type
