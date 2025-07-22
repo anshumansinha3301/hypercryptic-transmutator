@@ -17,9 +17,9 @@ This is a research-focused cryptosystem implementing meta-morphic, shift-invaria
 ## Usage
 
 ```
-nimble install hypercryptic-transmutator
-nimble build -d:release
-./transmutator input.txt output.pxct
+- nimble install hypercryptic-transmutator
+- nimble build -d:release
+- ./transmutator input.txt output.pxct
 ```
 
 ## Contribution
